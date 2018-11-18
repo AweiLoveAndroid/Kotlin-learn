@@ -1,6 +1,9 @@
 # Kotlin-learn
 kotlin和java混合使用总结
 
+#### 本文详细介绍，请看我的博客 [kotlin和java混合开发总结](https://www.jianshu.com/p/9220227cdfb3)
+
+
 ----
 
 ## 一、Kotlin项目里面集成Java的module
