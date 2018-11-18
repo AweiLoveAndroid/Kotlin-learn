@@ -1,7 +1,7 @@
 # Kotlin-learn
 kotlin和java混合使用总结
 
-#### 本文详细介绍，请看我的博客 [kotlin和java混合开发总结](https://www.jianshu.com/p/9220227cdfb3)
+## 关于详细的文字介绍，更多细节的讲解说明，请查看我的博客 [kotlin和java混合开发总结](https://www.jianshu.com/p/9220227cdfb3)
 
 
 ----
